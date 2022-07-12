@@ -2,3 +2,4 @@ Today is tuesday
 Month is july
 Year is 2022
 It is raining
+Tommorrow is Wednesday
