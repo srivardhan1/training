@@ -1,4 +1,4 @@
-hello srivardhan
-today is tuesday
-welcome to lti
-We are learning git
+Today is tuesday
+Month is july
+Year is 2022
+It is raining
